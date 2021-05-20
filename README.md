@@ -10,7 +10,8 @@ A Aplicação server quando em execução processa arquivos enviados pelo client
 _____
 
 no linux a execução seria
-\n
+
+
 sudo ./client teste.txt
 
 ele retorna para aplicação cliente , conteúdo do arquivo 
