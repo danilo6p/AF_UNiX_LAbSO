@@ -14,6 +14,7 @@ Sistema Operacional:  Linux
 comandos de compilação:
 Server
 
+
  gcc -pthread server.c -o server
 
 Client
