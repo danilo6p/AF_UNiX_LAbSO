@@ -10,21 +10,25 @@ _________________
 
 Sistema Operacional:  Linux 
 
--
+
+
+
+
 comandos de compilação:
-Server
 
+(Server)
 
- gcc -pthread server.c -o server
+gcc -pthread server.c -o server
 
-Client
+( Client )
+
  gcc client.c -o cliente
 _____
 
 no linux a execução seria
 
 
-sudo ./client teste.txt
+sudo ./cliente teste.txt
 
 ele retorna para aplicação cliente , conteúdo do arquivo 
 
